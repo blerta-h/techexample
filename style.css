@@ -320,7 +320,7 @@ form input {
 
 /* foto 1 bg */
 .foto1-bg {
-    background-image: url(/foto/bg0.jpg);
+    background-image: url(./foto/bg0.jpg);
     height: 400px;
     background-size: cover;
     background-position: center;
